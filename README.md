@@ -1,1 +1,3 @@
 # Personal-finance-tracker-agentic-ai
+
+The Personal Finance Agent is a Python-based intelligent application designed to help users track, analyze, and manage their personal finances efficiently. The user simply enters their monthly salary and uploads an Excel file containing expense records, after which the system automatically reads and cleans the data using Pandas, calculates total monthly expenses, determines savings or deficit, generates category-wise spending breakdowns, and provides AI-based financial suggestions to improve money management. This project reduces manual effort, minimizes errors, and offers quick, clear financial insights to support better budgeting and smarter financial decisions.
